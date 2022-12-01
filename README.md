@@ -2,7 +2,7 @@
 
 ### Description
 
-This program pick a number between 1 and the number user enters and let the user try to guess it.
+This program pick a number, between 1 and the number the user enters, and let the user try to guess it.
 
 
 ### Usage
